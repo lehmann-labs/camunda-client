@@ -5,7 +5,7 @@ Hard fork from github.com/citilinkru/camunda-client-go/v2, added possiblity to d
 
 Installation
 -----------
-	go get github.com/lehmann-labs/camunda-client-go/v1
+	go get github.com/lehmann-labs/camunda-client/v1
 	
 Usage
 -----------

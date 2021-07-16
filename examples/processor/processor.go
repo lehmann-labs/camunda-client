@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	camundaclientgo "github.com/lehmann-labs/camunda-client-go/v1"
-	"github.com/lehmann-labs/camunda-client-go/v1/processor"
+	camundaclientgo "github.com/lehmann-labs/camunda-client/v1"
+	"github.com/lehmann-labs/camunda-client/v1/processor"
 	"time"
 )
 

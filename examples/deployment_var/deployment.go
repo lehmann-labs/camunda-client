@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	camundaclientgo "github.com/lehmann-labs/camunda-client-go/v1"
+	camundaclientgo "github.com/lehmann-labs/camunda-client/v1"
 	"io"
 	"os"
 	"time"
