@@ -1,3 +1,3 @@
-module github.com/lehmann-labs/camunda-client/v1
+module github.com/lehmann-labs/camunda-client
 
 go 1.16
