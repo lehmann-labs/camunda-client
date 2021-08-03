@@ -1,6 +1,6 @@
 package processor
 
-import "github.com/lehmann-labs/camunda-client/v1"
+import "github.com/lehmann-labs/camunda-client"
 
 // QueryComplete a query for Complete request
 type QueryComplete struct {
